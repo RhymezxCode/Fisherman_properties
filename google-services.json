@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764095885750",
+    "firebase_url": "https://fisherman-7fd3d.firebaseio.com",
+    "project_id": "fisherman-7fd3d",
+    "storage_bucket": "fisherman-7fd3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764095885750:android:428bba36215cc45c259117",
+        "android_client_info": {
+          "package_name": "com.example.fishermanproperties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764095885750-8p7qjfleliqscnt01jk2mf5n3fukhnji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeU6VXyIRDaJYewEETRjj_s-MS3UyJV5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764095885750-8p7qjfleliqscnt01jk2mf5n3fukhnji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

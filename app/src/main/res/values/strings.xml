@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="chat_app">Chat App</string>
+    <string name="bungalow">"Four bedroom bungalow for sale at Gbagada, well
+                        furnished, all you need do is just move in, all
+                        appliances required has been installed already…Enjoy!!
+                        When will you be available for the inspection........
+                        please provide us with your schedule"</string>
+    <string name="magodo">"1 plot of land at magodo for sale with its full papers
+                        complete. it is a dry land very ready for
+                        construction at a cheap price up for grabs!!!
+                        When will you be available for the inspection..........
+                        "please provide us with your schedule"</string>
+    <string name="foundation">"Half plot of land for sale at Ikorodu at a
+                        cheap rate ready for construction, half completed
+                        foundation..This is a dry land When will you be available for the inspection..............
+                        please provide us with your schedule"</string>
+    <string name="egbeda">"Duplex for sale at Egbeda, structure made already with
+                        completion to be made by buyer,
+                        The area is very residential and conducive When will you be available for the inspection...........
+                        please provide us with your schedule"</string>
+
+    <string name="button">Button</string>
+    <string name="locations">Locations</string>
+    <string name="view_gallery">View Gallery</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="testimonials">Testimonials</string>
+    <string name="our_locations">Our Locations</string>
+    <string name="fisherman_properties">Fisherman properties</string>
+
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_galleries">Galleries</string>
+    <string name="title_activity_locatn">Map</string>
+    <string name="_234_803_112_0028">+234 803 112 0028</string>
+    <string name="_234_811_003_6687">+234 811 003 6687</string>
+    <string name="enter_details_on_property_of_interest">Enter details on property of interest</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="you_can_also_call_us_on">You can also call us on</string>
+    <string name="contactus">ContactUs</string>
+    <string name="submit_info">Submit Info</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_kindly_login">Already a user? kindly login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sex">Sex</string>
+    <string name="phone_no">Phone No</string>
+    <string name="username">Username</string>
+    <string name="app_name">fisherman properties</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="name">Fameboy</string>
+    <string name="nav_email">Faneboyhack@gmail.com</string>
+    <string name="four_bedroom_bungalow_for_sale">Four-bedroom Bungalow for sale</string>
+    <string name="half_plot_of_land_with_foundation_for_sale">Half plot of land with foundation for sale</string>
+    <string name="duplex_for_sale_at_egbeda">Duplex for sale at Egbeda</string>
+    <string name="_1plot_of_land_at_magodo_for_sale">1plot of land at Magodo for sale</string>
+    <string name="chat_me_now">Chat me now</string>
+    <string name="channel_list">Channel List</string>
+    <string name="join_channel">Join Channel</string>
+    <string name="hello_hello">hello, hello!</string>
+    <string name="_11_40">11:40</string>
+    <string name="hi_man_how_are_you">hi man, how are you?</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">SEND</string>
+    <string name="messages">Enter Message</string>
+    <string name="sender">Send</string>
+    <string name="title_activity_testimonials">Testimonials</string>
+    <string name="great_job_thank_you_so_much">Great job… Thank you so much!!!</string>
+    <string name="excellent_you_guys_rock_100">Excellent, you guys rock 100%</string>
+    <string name="excellent_properties_at_excellent_prices_they_are_legit">Excellent properties at Excellent prices. They are Legit</string>
+    <string name="tested_and_trusted_no_doubts">Tested and trusted… No doubts</string>
+    <string name="god_bless_fisherman_properties_they_have_helped_me_a_lot">God bless fisherman properties… They have helped me a lot</string>
+    <string name="thankssss">Thankssss!</string>
+    <string name="tested_and_trusted_no_doubts1">Tested_and_trusted_no_doubts</string>
+    <string name="god_bless_fisherman_properties_they_have_helped_me_a_lot1">God_bless_fisherman_properties_they_have_helped_me_a_lot</string>
+    <string name="thanksss12">Thanksss</string>
+    <string name="logout">logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="john_doe">John Doe</string>
+    <string name="input">Input</string>
+    <string name="enter_your_password_here_password_used_in_your_registeration">Enter your password here, password used in your registeration</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+AIzaSyCq2K437wGCk2BHJph8xR9Rv_BB24oYajg</string>
+</resources>

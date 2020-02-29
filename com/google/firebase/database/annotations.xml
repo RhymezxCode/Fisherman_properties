@@ -1,0 +1,13 @@
+<root>
+    <item name='com.google.firebase.database.FirebaseDatabase'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item
+        name='com.google.firebase.database.FirebaseDatabase com.google.firebase.database.DatabaseReference getReference()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+        <annotation name='java.lang.Deprecated' />
+        <annotation name='org.jetbrains.annotations.Blocking' />
+    </item>
+</root>
